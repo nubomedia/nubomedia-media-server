@@ -37,3 +37,6 @@
 [submodule "gst-plugins-good"]
 	path = gst-plugins-good
 	url = https://github.com/nubomedia/gst-plugins-good
+[submodule "gst-libav"]
+	path = gst-libav
+	url = https://github.com/nubomedia/gst-libav
