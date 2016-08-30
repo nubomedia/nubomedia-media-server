@@ -19,3 +19,6 @@
 [submodule "kms-jsonrpc"]
 	path = kms-jsonrpc
 	url = https://github.com/nubomedia/kms-jsonrpc
+[submodule "kms-cmake-utils"]
+	path = kms-cmake-utils
+	url = https://github.com/nubomedia/kms-cmake-utils
