@@ -1,0 +1,3 @@
+[submodule "armodule"]
+	path = armodule
+	url = https://github.com/nubomedia/armodule
