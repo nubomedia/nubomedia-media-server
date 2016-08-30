@@ -22,3 +22,6 @@
 [submodule "kms-cmake-utils"]
 	path = kms-cmake-utils
 	url = https://github.com/nubomedia/kms-cmake-utils
+[submodule "kurento-module-creator"]
+	path = kurento-module-creator
+	url = https://github.com/nubomedia/kurento-module-creator
