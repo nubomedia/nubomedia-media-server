@@ -4,3 +4,6 @@
 [submodule "msdata"]
 	path = msdata
 	url = https://github.com/nubomedia/msdata
+[submodule "arfilterdemopaas"]
+	path = arfilterdemopaas
+	url = https://github.com/nubomedia/arfilterdemopaas
