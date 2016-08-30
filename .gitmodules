@@ -7,3 +7,6 @@
 [submodule "kms-core"]
 	path = kms-core
 	url = https://github.com/nubomedia/kms-core
+[submodule "kms-elements"]
+	path = kms-elements
+	url = https://github.com/nubomedia/kms-elements
