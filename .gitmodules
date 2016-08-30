@@ -58,3 +58,6 @@
 [submodule "libs3"]
 	path = libs3
 	url = https://github.com/nubomedia/libs3
+[submodule "libnice"]
+	path = libnice
+	url = https://github.com/nubomedia/libnice
