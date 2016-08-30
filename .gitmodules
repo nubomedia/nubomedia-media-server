@@ -49,3 +49,6 @@
 [submodule "gst-plugins-base"]
 	path = gst-plugins-base
 	url = https://github.com/nubomedia/gst-plugins-base
+[submodule "openwebrtc-gst-plugins"]
+	path = openwebrtc-gst-plugins
+	url = https://github.com/nubomedia/openwebrtc-gst-plugins
