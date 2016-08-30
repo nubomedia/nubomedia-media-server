@@ -46,3 +46,6 @@
 [submodule "gst-plugins-bad"]
 	path = gst-plugins-bad
 	url = https://github.com/nubomedia/gst-plugins-bad
+[submodule "gst-plugins-base"]
+	path = gst-plugins-base
+	url = https://github.com/nubomedia/gst-plugins-base
