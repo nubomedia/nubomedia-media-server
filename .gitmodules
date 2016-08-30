@@ -52,3 +52,6 @@
 [submodule "openwebrtc-gst-plugins"]
 	path = openwebrtc-gst-plugins
 	url = https://github.com/nubomedia/openwebrtc-gst-plugins
+[submodule "gstreamer"]
+	path = gstreamer
+	url = https://github.com/nubomedia/gstreamer
