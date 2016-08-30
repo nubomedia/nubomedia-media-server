@@ -34,3 +34,6 @@
 [submodule "kms-opencv-plugin-sample"]
 	path = kms-opencv-plugin-sample
 	url = https://github.com/nubomedia/kms-opencv-plugin-sample
+[submodule "gst-plugins-good"]
+	path = gst-plugins-good
+	url = https://github.com/nubomedia/gst-plugins-good
