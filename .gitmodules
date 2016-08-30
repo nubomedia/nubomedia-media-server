@@ -64,3 +64,6 @@
 [submodule "usrsctp"]
 	path = usrsctp
 	url = https://github.com/nubomedia/usrsctp
+[submodule "jsoncpp"]
+	path = jsoncpp
+	url = https://github.com/nubomedia/jsoncpp
