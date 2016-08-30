@@ -40,3 +40,6 @@
 [submodule "gst-libav"]
 	path = gst-libav
 	url = https://github.com/nubomedia/gst-libav
+[submodule "gst-plugins-ugly"]
+	path = gst-plugins-ugly
+	url = https://github.com/nubomedia/gst-plugins-ugly
