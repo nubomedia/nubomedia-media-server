@@ -67,3 +67,6 @@
 [submodule "jsoncpp"]
 	path = jsoncpp
 	url = https://github.com/nubomedia/jsoncpp
+[submodule "kms-chroma"]
+	path = kms-chroma
+	url = https://github.com/nubomedia/kms-chroma
