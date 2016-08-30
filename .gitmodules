@@ -13,3 +13,6 @@
 [submodule "kms-filters"]
 	path = kms-filters
 	url = https://github.com/nubomedia/kms-filters
+[submodule "kurento-media-server"]
+	path = kurento-media-server
+	url = https://github.com/nubomedia/kurento-media-server
