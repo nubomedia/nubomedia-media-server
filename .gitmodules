@@ -76,3 +76,6 @@
 [submodule "kms-platedetector"]
 	path = kms-platedetector
 	url = https://github.com/nubomedia/kms-platedetector
+[submodule "kms-pointerdetector"]
+	path = kms-pointerdetector
+	url = https://github.com/nubomedia/kms-pointerdetector
