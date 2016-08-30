@@ -79,3 +79,6 @@
 [submodule "kms-pointerdetector"]
 	path = kms-pointerdetector
 	url = https://github.com/nubomedia/kms-pointerdetector
+[submodule "nubomedia-vca"]
+	path = nubomedia-vca
+	url = https://github.com/nubomedia/nubomedia-vca
