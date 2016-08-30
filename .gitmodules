@@ -55,3 +55,6 @@
 [submodule "gstreamer"]
 	path = gstreamer
 	url = https://github.com/nubomedia/gstreamer
+[submodule "libs3"]
+	path = libs3
+	url = https://github.com/nubomedia/libs3
