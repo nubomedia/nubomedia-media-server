@@ -73,3 +73,6 @@
 [submodule "kms-crowddetector"]
 	path = kms-crowddetector
 	url = https://github.com/nubomedia/kms-crowddetector
+[submodule "kms-platedetector"]
+	path = kms-platedetector
+	url = https://github.com/nubomedia/kms-platedetector
