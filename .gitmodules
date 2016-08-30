@@ -1,3 +1,6 @@
 [submodule "armodule"]
 	path = armodule
 	url = https://github.com/nubomedia/armodule
+[submodule "msdata"]
+	path = msdata
+	url = https://github.com/nubomedia/msdata
