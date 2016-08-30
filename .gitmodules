@@ -28,3 +28,6 @@
 [submodule "kms-datachannelexample"]
 	path = kms-datachannelexample
 	url = https://github.com/nubomedia/kms-datachannelexample
+[submodule "kms-plugin-sample"]
+	path = kms-plugin-sample
+	url = https://github.com/nubomedia/kms-plugin-sample
