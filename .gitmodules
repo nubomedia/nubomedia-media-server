@@ -25,3 +25,6 @@
 [submodule "kurento-module-creator"]
 	path = kurento-module-creator
 	url = https://github.com/nubomedia/kurento-module-creator
+[submodule "kms-datachannelexample"]
+	path = kms-datachannelexample
+	url = https://github.com/nubomedia/kms-datachannelexample
