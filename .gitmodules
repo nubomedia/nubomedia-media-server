@@ -16,3 +16,6 @@
 [submodule "kurento-media-server"]
 	path = kurento-media-server
 	url = https://github.com/nubomedia/kurento-media-server
+[submodule "kms-jsonrpc"]
+	path = kms-jsonrpc
+	url = https://github.com/nubomedia/kms-jsonrpc
